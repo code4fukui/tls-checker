@@ -1,4 +1,4 @@
-# tls-checker
+# TLS-Checker
 
 - check valid days of TLS
 
